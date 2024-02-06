@@ -4,9 +4,11 @@ output:
   html_document
 ---
 
-If you have questions please contact Candace Savonen (csavonen@fredhutch.org) or [leave a GitHub Issue]( https://github.com/fhdsl/metricminer/issues)
+Please email us at simplydatasciencepod@gmail.com!
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc4P8xntp22CShqCDMGvC6prCInaqbzC2fbknIkFujR5ORTSw/viewform?embedded=true" width="640" height="1189" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+Or fill out our form below!
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe3CXvDSyML68ygQCEOvIvpytt3nGtJOG1ztPBuQF8gQYbjug/viewform?embedded=true" width="640" height="2484" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-951TGMSPH7"></script>

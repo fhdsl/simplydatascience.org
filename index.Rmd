@@ -1,19 +1,19 @@
 ---
-title: "**metricminer**"
+title: "**Simply Data Science**"
 output:
   html_document
 ---
 
-## Digging up data that matters; making it dashboard-ready!
+## Data science is for everyone!
 
 <img src = "resources/images/metricminer-gnome.png" width = 200>
 
+Data science isn’t just for tech bros or ivory tower academic types. Everyone has data and should know how to speak "data" if they want to!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YkYnni-WuaQ?si=dcx_EM-GrtnKUxmb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+- We're on [Instagram](https://www.instagram.com/simplydatasciencepod/)
+- We're on [Youtube](https://www.youtube.com/@SimplyDataSciencePod)
 
-[Video made with Loqui](https://loqui.fredhutch.org/)
-
-This work is funded by NCI UE5CA254170 as a part of the [ITCR Training Network](https://www.itcrtraining.org/)
+We're a small group who just wants to see the world learn!
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-951TGMSPH7"></script>

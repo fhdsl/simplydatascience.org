@@ -1,14 +1,11 @@
-name: metricminer
+name: Simply Data Science
 output_dir: '.'
 navbar:
-  title: metricminer
+  title: simplydatascience
   left:
   - text: Home
     href: index.html
     icon: fa-home
-  - text: Getting Started
-    href: https://hutchdatascience.org/metricminer/articles/getting-started.html
-    icon: fa-play
   - text: Contact
     href: contact.html
     icon: fa-envelope
