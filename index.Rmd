@@ -6,21 +6,21 @@ output:
 
 ## Data science is for everyone!
 
-<img src = "resources/images/metricminer-gnome.png" width = 200>
-
 Data science isn’t just for tech bros or ivory tower academic types. Everyone has data and should know how to speak "data" if they want to!
 
 - We're on [Instagram](https://www.instagram.com/simplydatasciencepod/)
 - We're on [Youtube](https://www.youtube.com/@SimplyDataSciencePod)
 
+<img src = "resources/images/simplydatasciencecorgi.png" width = 200>
+
 We're a small group who just wants to see the world learn!
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-951TGMSPH7"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WGKYRN5KY2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-951TGMSPH7');
+  gtag('config', 'G-WGKYRN5KY2');
 </script>

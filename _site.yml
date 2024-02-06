@@ -22,10 +22,11 @@ navbar:
 
 output:
   html_document:
-    theme: cosmo
+    theme: flatly
     lib_dir: site_libs
     self_contained: no
     highlight: textmate
     css: styles.css
     includes:
+       before_body: resources/big-image.html
        in_header: resources/header.html
