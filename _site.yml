@@ -6,6 +6,15 @@ navbar:
   - text: Home
     href: index.html
     icon: fa-home
+  - text: Podcast
+    href: https://www.buzzsprout.com/2261533/episodes
+    icon: fa-podcast
+  - text: Instagram
+    href: https://www.instagram.com/simplydatasciencepod/
+    icon: fa-instagram
+  - text: Youtube
+    href: https://www.youtube.com/channel/UCmXKPM8b_OwxN9_kAoQax7w
+    icon: fa-youtube
   - text: Contact
     href: contact.html
     icon: fa-envelope
