@@ -6,12 +6,15 @@ output:
 
 ## Data science is for everyone!
 
-Data science isn’t just for tech bros or ivory tower academic types. Everyone has data and should know how to speak "data" if they want to!
+Data science isn’t just for tech bros or ivory tower academic types. Everyone has data and should know how to speak "data" if they want to! But our news feeds are filled with data science jargon.
+Terms like "machine learning", "cloud" or "AI" are used in our news feeds but never explained or defined in simple terms -- this makes the whole data conversation intimidating. 
 
-- We're on [Instagram](https://www.instagram.com/simplydatasciencepod/)
-- We're on [Youtube](https://www.youtube.com/@SimplyDataSciencePod)
+## Nobody knows everything!
+The truth is no one is actually “in the know” for *everything* data science. Even data scientists who’ve been working in the field for years don’t know about EVERY term that might be related to data science. That's because data science is a pretty rapidly changing and diverse practice – it's impossible to be an expert in everything data science touches! 
 
-We're a small group who just wants to see the world learn!
+## You belong!
+Contrary to the some google results, data science isn’t only something business men in suits use! A lot of us use data science! Folks a part of Simply Data Science want you to feel empowered to enter the data science conversation – whether you are interested in data science as a hobby or a career we’re here to help you feel welcome.
+
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-WGKYRN5KY2"></script>
@@ -22,3 +25,5 @@ We're a small group who just wants to see the world learn!
 
   gtag('config', 'G-WGKYRN5KY2');
 </script>
+
+\* The views expressed by Simply Data Science are those of the individuals and do not reflect the views of their employers or funders. 
